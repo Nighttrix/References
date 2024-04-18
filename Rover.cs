@@ -1,4 +1,4 @@
-class Rover
+class Rover : IDirectable
   {
     public string Alias
     { get; private set; }

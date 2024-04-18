@@ -1,0 +1,15 @@
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.GeneratedMSBuildEditorConfig.editorconfig
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.AssemblyInfoInputs.cache
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.AssemblyInfo.cs
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.csproj.CoreCompileInputs.cache
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.sourcelink.json
+/home/voodoo_child/Documents/GitProjects/References/bin/Debug/net8.0/References
+/home/voodoo_child/Documents/GitProjects/References/bin/Debug/net8.0/References.deps.json
+/home/voodoo_child/Documents/GitProjects/References/bin/Debug/net8.0/References.runtimeconfig.json
+/home/voodoo_child/Documents/GitProjects/References/bin/Debug/net8.0/References.dll
+/home/voodoo_child/Documents/GitProjects/References/bin/Debug/net8.0/References.pdb
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.dll
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/refint/References.dll
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.pdb
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/References.genruntimeconfig.cache
+/home/voodoo_child/Documents/GitProjects/References/obj/Debug/net8.0/ref/References.dll
